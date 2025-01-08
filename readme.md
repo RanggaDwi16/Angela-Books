@@ -32,6 +32,7 @@ AngelaBook adalah proyek sederhana berbasis PHP yang memungkinkan pencarian buku
 - `index.php` : Halaman utama untuk menampilkan buku dan melakukan pencarian.
 - `koneksi.php` : File koneksi database.
 - `search.php` : Endpoint untuk pencarian data buku.
+- `includes/` : Folder berisi header navbar
 - `assets/` : Folder berisi file gambar dan resource lainnya.
 - `angelabook.sql` : File SQL untuk membuat dan mengisi tabel di database.
 
